@@ -5,7 +5,6 @@ This project automates the registration process for [Cermati's registration page
 ## Prerequisites
 
 1. Node JS (^16)
-2. Setup .env
 
 ```bash
    npm install
